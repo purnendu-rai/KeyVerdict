@@ -101,7 +101,7 @@ KeyVerdict/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/ParadoxPusher/KeyVerdict.git
+git clone https://github.com/purnendu-rai/KeyVerdict.git
 cd KeyVerdict
 npm run install:all
 ```
