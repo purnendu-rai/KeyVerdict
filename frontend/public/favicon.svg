@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>KeyVerdict</title>
+  <rect width="64" height="64" rx="18" fill="#0b1628"/>
+  <path d="M32 10 49 17v13c0 11-7 19-17 24-10-5-17-13-17-24V17l17-7Z" fill="#42d6bd" opacity=".18" stroke="#42d6bd" stroke-width="2"/>
+  <path d="M24 31v-4a8 8 0 0 1 16 0v4" fill="none" stroke="#f1f7ff" stroke-width="4" stroke-linecap="round"/>
+  <rect x="21" y="29" width="22" height="16" rx="4" fill="#f1f7ff"/>
+  <circle cx="32" cy="37" r="2.5" fill="#0b1628"/>
+</svg>
